@@ -1,5 +1,4 @@
-+ Hi there 👋
-+ I'm Rana Muhammad Awais
++ # Hi there, I'm Rana Muhammad Awais
 + ![GitHub trophy](https://github-profile-trophy.vercel.app/?username=johannlilly&theme=onedark&margin-w=15&margin-h=15&column=7)
 + ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johannlilly&theme=onedark&layout=compact&langs_count=15&card_width=810)
 + ![GitHub streak stats](http://github-readme-streak-stats.herokuapp.com?user=johannlilly&theme=onedark)
@@ -11,4 +10,3 @@
 + 🧠 Learning @ Presidential Initiative for Artificial Intelligence and Computing
 Skills
 + Python Fast API Docker PostgreSQL Google Cloud TypeScript NextJs TailwindCSS Git
-+ 
